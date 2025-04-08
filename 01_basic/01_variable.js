@@ -5,6 +5,8 @@ accountCity = "Ahmedabad"
 
 // accountId = 2
 
+// var type prefer to not use becouse issue is block scope anf function scope ....
+
 accountEmail = "hc@hc.com"
 accountPassword = "15420"
 accountCity = "surat"
